@@ -1,3 +1,5 @@
+@author: ChrisJohn
+@email: 2745353282@qq.com
 clc,clear,close all
 %% 启动数据引擎
 w = windmatlab;
